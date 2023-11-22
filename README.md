@@ -1,5 +1,4 @@
-```markdown
-# PrimeNumTech Scrapping Project
+# PrimeNumTech Scraping Project
 
 This project scrapes information from a specific webpage and extracts data from the table. The extracted information includes post date, quest number, category code, bid/request name, and bid closing date.
 
