@@ -41,7 +41,7 @@ This Python project utilizes Selenium and BeautifulSoup to scrape data from a we
 3. Create a virtual environment:
 
    ```bash
-   python -m venv .venv
+   python3 -m venv .venv
    ```
 
 4. Activate the virtual environment:
@@ -69,8 +69,13 @@ This Python project utilizes Selenium and BeautifulSoup to scrape data from a we
 Run the following command to execute the scraper script:
 
 ```bash
-python scrape_postings.py
+python scrape.py
 ```
+
+## Output:
+
+![Output_Image](./images/output_screenshot.png)
+
 
 The script will print the extracted information from the table.
 
