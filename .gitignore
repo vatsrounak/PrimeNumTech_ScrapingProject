@@ -1,4 +1,7 @@
-Learning Scrapping/
 main.py
 scrape_postings.py
 scrape1.py
+.venv/
+managed_context/
+test_suite_analysis/
+
